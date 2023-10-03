@@ -25,7 +25,7 @@ const Footer = () => {
                 </h3>
                 <ul>
                   <li><a href="/">Home</a></li>
-                  <li><a href="http://localhost:8000">Chatbot</a></li>
+                  <li><a href="/chatbot">Chatbot</a></li>
                   <li><a href="/textsum">Summarizer</a></li>
                   <li><a href="/lawyers">Ask Lawyer</a></li>
                   <li><a href="/docum">Document Maker</a></li>
@@ -85,9 +85,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-12">
               <p className="copy_right">
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                 Copyright © All rights reserved 2023| MastRoom
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
               </p>
             </div>
           </div>
